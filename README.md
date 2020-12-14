@@ -1,2 +1,2 @@
-# megsdata
- personal webpage
+# Meg Sharma
+ msharma@elaya.ai
