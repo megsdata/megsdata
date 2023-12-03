@@ -32,11 +32,11 @@ export const skills = [
 export const cases = [
   {
     id: nanoid(),
-    img: 'https://www.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2017/11/13/BookWorld/Images/MOTOE_BranaghMTI%20da%20c.JPG',
-    url: 'https://en.wikipedia.org/wiki/Murder_on_the_Orient_Express',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/7/79/Ventricular_Septal_Defect.jpg',
+    url: 'https://en.wikipedia.org/wiki/Echocardiography',
     github: 'https://github.com/',
-    title: 'Murder on the Orient Express',
-    text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.',
+    title: 'Feature Extraction from Echocardiography Videos',
+    text: 'Use of Vision Transformers as an alternative to 2D-CNNs; in collaboration with Cleveland Clinic.',
   },
   {
     id: nanoid(),
@@ -46,12 +46,5 @@ export const cases = [
     title: 'second project',
     text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.',
   },
-  {
-    id: nanoid(),
-    img: 'https://thebwhagency.co.uk/wp-content/uploads/2020/02/Ash-Matthews-The-ABC-Murders.jpg',
-    url: 'https://en.wikipedia.org/wiki/The_A.B.C._Murders',
-    github: 'https://github.com/',
-    title: 'The ABC Murders',
-    text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.',
-  },
+
 ];
